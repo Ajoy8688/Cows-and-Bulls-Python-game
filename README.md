@@ -67,26 +67,6 @@ Run the application:
 python3 cows_and_bulls.py
 ```
 
-## 📚 Python Concepts Practised
-
-- Variables and data types
-- Conditional statements
-- For and while loops
-- Nested loops
-- Strings and sets
-- Random module
-- Break and continue statements
-- Input validation
-
-## 🔮 Future Enhancements
-
-- Difficulty levels
-- Score tracking
-- Automated unit testing
-- Graphical user interface
-- Docker containerization
-- CI/CD using GitHub Actions
-
 ## 👨‍💻 Author
 
 Developed by [Ajoy8688](https://github.com/Ajoy8688)
